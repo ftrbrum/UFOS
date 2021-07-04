@@ -4,25 +4,30 @@ Module 11
 
 ## Overview of Analysis:
 
-After creating Dana's UFO Sightings webpage
+After creating Dana's UFO Sightings webpage with a filter search for the date, we have gone back and added 4 additional options in the filter search.  This will allow a more in-depth analysis of UFO sightings by allowing users to filter the search for the added criteria.
 
-Dana’s webpage and dynamic table are working as intended, but she’d like to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, you’ll add table filters for the city, state, country, and shape.
+The additional filters added are for city, state, country and shape.
+
 
 ## Resources:
 
-Software: Software: Jupyter Notebook, Anaconda 4.10.1, Python 3.7.6, Visual Studio Code 1.56.0
+Software: 
+Jupyter Notebook, Anaconda 4.10.1, Python 3.7.6, Visual Studio Code 1.56.0
  
-Code: 	[index.html](index.html)) <br/>
-		[style.css](static/css/style.css) <br/>
-		[app.js](static/js/app.js) <br/>
-		[app.js](static/js/app.js) <br/>
+Code: 	
+[index.html](index.html) <br/>
+[style.css](static/css/style.css) <br/>
+[app.js](static/js/app.js) <br/>
+		
 
-Resources:	[data.js](static/js/data.js)
+Resources:	
+[data.js](static/js/data.js)
 
-Images:	[images](static)			
+Images:	
+[images](static)			
 
 ## Website Images:
-![main_page.png](static/images/main_page.png) <br/>
+
 ![date_search.png](static/images/date_search.png) <br/>
 ![city_search.png](static/images/city_search.png) <br/>
 ![state_search.png](static/images/state_search.png) <br/>
